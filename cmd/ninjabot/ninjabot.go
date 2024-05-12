@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/rodrigo-brito/ninjabot/download"
-	"github.com/rodrigo-brito/ninjabot/exchange"
-	"github.com/rodrigo-brito/ninjabot/service"
+	"github.com/tbal999/ninjabot/download"
+	"github.com/tbal999/ninjabot/exchange"
+	"github.com/tbal999/ninjabot/service"
 
 	"github.com/urfave/cli/v2"
 )

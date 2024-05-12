@@ -6,9 +6,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/rodrigo-brito/ninjabot"
-	"github.com/rodrigo-brito/ninjabot/examples/strategies"
-	"github.com/rodrigo-brito/ninjabot/exchange"
+	"github.com/tbal999/ninjabot"
+	"github.com/tbal999/ninjabot/examples/strategies"
+	"github.com/tbal999/ninjabot/exchange"
 )
 
 // This example shows how to use futures market with NinjaBot.

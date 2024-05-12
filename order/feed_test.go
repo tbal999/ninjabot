@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/rodrigo-brito/ninjabot/model"
+	"github.com/tbal999/ninjabot/model"
 )
 
 func TestFeed_NewOrderFeed(t *testing.T) {

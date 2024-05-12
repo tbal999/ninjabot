@@ -9,8 +9,8 @@ import (
 	"github.com/schollz/progressbar/v3"
 	"github.com/xhit/go-str2duration/v2"
 
-	"github.com/rodrigo-brito/ninjabot/service"
-	"github.com/rodrigo-brito/ninjabot/tools/log"
+	"github.com/tbal999/ninjabot/service"
+	"github.com/tbal999/ninjabot/tools/log"
 )
 
 const batchSize = 500

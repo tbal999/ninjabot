@@ -8,9 +8,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/rodrigo-brito/ninjabot/exchange"
-	"github.com/rodrigo-brito/ninjabot/model"
-	"github.com/rodrigo-brito/ninjabot/storage"
+	"github.com/tbal999/ninjabot/exchange"
+	"github.com/tbal999/ninjabot/model"
+	"github.com/tbal999/ninjabot/storage"
 )
 
 func TestController_updatePosition(t *testing.T) {

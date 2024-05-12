@@ -1,11 +1,11 @@
 package strategies
 
 import (
-	"github.com/rodrigo-brito/ninjabot"
-	"github.com/rodrigo-brito/ninjabot/indicator"
-	"github.com/rodrigo-brito/ninjabot/service"
-	"github.com/rodrigo-brito/ninjabot/strategy"
-	"github.com/rodrigo-brito/ninjabot/tools/log"
+	"github.com/tbal999/ninjabot"
+	"github.com/tbal999/ninjabot/indicator"
+	"github.com/tbal999/ninjabot/service"
+	"github.com/tbal999/ninjabot/strategy"
+	"github.com/tbal999/ninjabot/tools/log"
 )
 
 // https://www.investopedia.com/articles/trading/08/turtle-trading.asp
